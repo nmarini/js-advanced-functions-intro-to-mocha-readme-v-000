@@ -1,3 +1,0 @@
-function favoriteIceCream(flavor) {
-  debugger;
-}
