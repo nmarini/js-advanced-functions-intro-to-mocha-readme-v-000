@@ -19,6 +19,5 @@ function shouting(string) {
 }
 
 function roundDown(number) {
-  debugger
   return Math.round(number)
 }
